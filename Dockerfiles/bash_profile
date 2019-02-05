@@ -1,0 +1,22 @@
+cd $HOME
+source .bashrc
+
+cd $HOME/mpi-2019-02-talk-hyperbolic/environments/arch-full
+source PATH.sh
+cd ../../build
+
+echo "This is a container based on archlinux"
+echo "the current user is sudo pacman capable."
+echo "Visit https://www.archlinux.org/ for more information."
+echo ""
+echo "To reproduce the results, go to"
+echo ""
+echo "  /home/user/mpi-2019-02-talk-hyperbolic/build/dune-gdt/examples/"
+echo ""
+echo "and execute"
+echo ""
+echo "  ./examples__mpi-2019-02-talk-on-hyperbolic-equations"
+echo ""
+echo "The resulting *.vtp and *.vtu files can be visualized,"
+echo "e.g. with paraview."
+
