@@ -7,7 +7,7 @@
 
 This repository contains the companion software for the talk
 
-  __Localization and mass conservation in reduced basis methods__
+  __Higher order implicit schemes for compressible flow__
 
 held by Felix Schindler ([felixschindler.net](http://felixschindler.net)) on
 Feb. 5th 2019 at the [MPI Magdeburg](https://www.mpi-magdeburg.mpg.de/csc/seminare/csc/2018).
